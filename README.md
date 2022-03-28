@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Connor.
+- 👀 I’m interested in gaming, martial arts, hockey, reading.
+- 🌱 I’m currently learning JavaScript and Python.
+- Familiar with:
+- C#
+- SQL
+- VB.NET
+- 💞️ I’m looking to collaborate on new career opportunities to learn from established developers.
+- 📫 How to reach me:
+- via cell: 602-803-7771
+- via e-mail: cpc1233@gmail.com
